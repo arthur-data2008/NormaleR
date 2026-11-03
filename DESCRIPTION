@@ -1,0 +1,16 @@
+Package: NormaleR
+Type: Package
+Title: Tools for the Standard Normal Distribution
+Version: 0.1.0
+Authors@R: person(
+    "Arthur", "Melo",
+    email = "arthurmelo6732@gmail.com",
+    role = c("aut", "cre")
+  )
+Description: Provides functions to calculate the density, cumulative
+    probabilities and quantiles of the standard normal distribution,
+    simulate random values and visualize distributions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.1
